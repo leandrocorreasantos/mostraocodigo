@@ -1,0 +1,3 @@
+baseURL = 'https://mostraocodigo.com.br/'
+locale = 'pt-br'
+title = 'Mostra o Código'
