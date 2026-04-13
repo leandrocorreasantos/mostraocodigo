@@ -1,3 +1,4 @@
 baseURL = 'https://leandrocorreasantos.github.io/mostraocodigo'
 locale = 'pt-br'
 title = 'Mostra o Código'
+theme = "zen"
